@@ -1,4 +1,4 @@
- <img src="banner.png" height="300" width="1000" alt=""/>
+ <img src="https://raw.githubusercontent.com/easyzon/.github/main/profile/banner.png" height="300" width="1000" alt=""/>
 <hr>
 </em></p>
 
